@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey, I'm João Gabriel Lima! 👋
+## Hey, I'm João Gabriel! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 
 🔭 I’m currently working on <a href="mineup.net">MineUP</a> </br>

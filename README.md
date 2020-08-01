@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 ## Hey, I'm João Gabriel Lima! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 
-🇧🇷 Born in Rio de Janeiro, Brazil
+- 🔭 I’m currently working on MineUP
 - 😄 I really like to learn
-- 📊 I'm working with Python 
-- 📚 Currently studying PHP and Javascript
+- 🌱 I’m currently learning Python 
+- 📚 I’m Currently studying PHP
 - 🌍 And I also like to travel
 
 ### What I'm working on 👨‍💻
-📱 Building a AI Code Editor in Python
+📱 Building a AI Code Editor in Python </br>
 You can watch me building at my Discord server
 
 ### Find me elsewhere 🌎
 🚀 Site </br>
-🐦 Twitter
-📸 Instagram
-💼 LinkedIn
+🐦 Twitter </br>
+📸 Instagram </br>
+💼 LinkedIn </br>

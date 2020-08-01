@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey, I'm João Gabriel Lima! 👋
+## Hey, I'm João Gabriel Lima! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 
 🇧🇷 Born in Rio de Janeiro, Brazil
@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 - 📚 Currently studying PHP and Javascript
 - 🌍 And I also like to travel
 
-# What I'm working on 👨‍💻
+### What I'm working on 👨‍💻
 📱 Building a AI Code Editor in Python
 You can watch me building at my Discord server
+
+### Find me elsewhere 🌎
+🚀 Site
+🐦 Twitter
+📸 Instagram
+💼 LinkedIn

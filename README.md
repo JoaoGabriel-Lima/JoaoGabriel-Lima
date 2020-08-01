@@ -12,11 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# João Lima 👨‍💻
-### Hellooo! 👋 Welcome to my profile
-My name is João and:
+# Hey, I'm João Gabriel Lima! 👋
+<!--### Hellooo! 👋 Welcome to my profile-->
 
+🇧🇷 Born in Rio de Janeiro, Brazil
 - 😄 I really like to learn
-- 📊 I'm working with Business Intelligence
+- 📊 I'm working with Python 
 - 📚 Currently studying PHP and Javascript
 - 🌍 And I also like to travel
+
+# What I'm working on 👨‍💻
+📱 Building a AI Code Editor in Python
+You can watch me building at my Discord server

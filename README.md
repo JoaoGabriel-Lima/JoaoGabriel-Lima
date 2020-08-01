@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 You can watch me building at my Discord server
 
 ### Find me elsewhere 🌎
-🚀 Site
+🚀 Site </br>
 🐦 Twitter
 📸 Instagram
 💼 LinkedIn

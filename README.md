@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### What I'm working on 👨‍💻
 📱 Building a AI Code Editor in Python </br>
-You can watch me building at my <a href=""https://discord.gg/UkVG82A>Discord server</a>
+You can watch me building at my <a href="https://discord.gg/UkVG82A">Discord server</a>
 
 ### Find me elsewhere 🌎
 🚀 Site </br>

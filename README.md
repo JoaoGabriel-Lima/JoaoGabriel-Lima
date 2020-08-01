@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on <a href="mineup.net">MineUP</a> </br>
 😄 I really like to learn </br>
-🌱 I’m currently learning Python </br>
-📚 I’m Currently studying PHP </br>
+📫 How to reach me: <a href="https://discord.gg/UkVG82A" target='_blank'>Click Here</a></br>
+📚 I’m Currently studying Python and PHP </br>
 🌍 And I also like to travel </br>
 
 ### What I'm working on 👨‍💻
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 You can watch me building at my <a href="https://discord.gg/UkVG82A" target='_blank'>Discord server</a>
 
 ### Find me elsewhere 🌎
-🚀 <a href="#">Site</a> </br>
+🚀 <a href="#">Website</a> </br>
 🐦 <a href="#">Twitter</a> </br>
 📸 <a href="#">Instagram</a> </br>
-💼 LinkedIn </br>
+💼 <a href="#">LinkedIn</a> </br>

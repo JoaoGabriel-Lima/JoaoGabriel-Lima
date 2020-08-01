@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JoaoGabriel-Lima/JoaoGabriel-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # João Lima 👨‍💻
+### Hellooo! 👋 Welcome to my profile
+My name is João and:
+
+- 😄 I really like to learn
+- 📊 I'm working with Business Intelligence
+- 📚 Currently studying PHP and Javascript
+- 🌍 And I also like to travel

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hey, I'm João Gabriel Lima! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 
-- 🔭 I’m currently working on MineUP
+- 🔭 I’m currently working on <a href="mineup.net">MineUP</a>
 - 😄 I really like to learn
 - 🌱 I’m currently learning Python 
 - 📚 I’m Currently studying PHP
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### What I'm working on 👨‍💻
 📱 Building a AI Code Editor in Python </br>
-You can watch me building at my Discord server
+You can watch me building at my <a href=""https://discord.gg/UkVG82A>Discord server</a>
 
 ### Find me elsewhere 🌎
 🚀 Site </br>

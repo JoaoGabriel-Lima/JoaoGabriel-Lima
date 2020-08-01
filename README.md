@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 ## Hey, I'm João Gabriel Lima! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 
-- 🔭 I’m currently working on <a href="mineup.net">MineUP</a>
-- 😄 I really like to learn
-- 🌱 I’m currently learning Python 
-- 📚 I’m Currently studying PHP
-- 🌍 And I also like to travel
+🔭 I’m currently working on <a href="mineup.net">MineUP</a> </br>
+😄 I really like to learn </br>
+🌱 I’m currently learning Python </br>
+📚 I’m Currently studying PHP </br>
+🌍 And I also like to travel </br>
 
 ### What I'm working on 👨‍💻
 📱 Building a AI Code Editor in Python </br>
 You can watch me building at my <a href="https://discord.gg/UkVG82A" target='_blank'>Discord server</a>
 
 ### Find me elsewhere 🌎
-🚀 Site </br>
-🐦 Twitter </br>
-📸 Instagram </br>
+🚀 <a href="#">Site</a> </br>
+🐦 <a href="#">Twitter</a> </br>
+📸 <a href="#">Instagram</a> </br>
 💼 LinkedIn </br>

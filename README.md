@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 ## Hey, I'm João Gabriel! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 
-🔭 I’m currently working on a <a href="http://mineup.great-site.net/">Minecraft Server Website</a> </br>
+🔭 I’m currently working on a <a href="http://mineup.great-site.net/" target='_blank'>Minecraft Server Website</a> </br>
 😄 I really like to learn </br>
 📫 How to reach me: <a href="https://discord.gg/UkVG82A" target='_blank'>Click Here</a></br>
-📚 I’m Currently studying Python and PHP </br>
+📚 I’m Currently studying React Native and Node.js </br>
 🌍 And I also like to travel </br>
 
 ### What I'm working on 👨‍💻

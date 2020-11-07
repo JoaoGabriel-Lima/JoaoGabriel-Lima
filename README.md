@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hey, I'm João Gabriel! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 
-🔭 I’m currently working on a <a href="../Notemock" target='_blank'>Real Time Shared Notepad</a> </br>
+🔭 I’m currently working on a <a href="https://github.com/Notemock" target='_blank'>Real Time Shared Notepad</a> </br>
 😄 I really like to learn </br>
 📫 How to reach me: <a href="https://discord.gg/UkVG82A" target='_blank'>Click Here</a></br>
 📚 I’m Currently studying React Native and Node.js </br>

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on a <a href="https://github.com/Notemock" target='_blank'>Real Time Shared Notepad</a> </br>
 😄 I really like to learn </br>
-📫 How to reach me: <a href="https://discord.gg/UkVG82A" target='_blank'>Click Here</a></br>
+📫 How to reach me: <a href="https://discord.gg/uZKHUvH8AU" target='_blank'>Click Here</a></br>
 📚 I’m Currently studying React Native and Node.js </br>
 🌍 And I also like to travel </br>
 

@@ -30,3 +30,10 @@ You can watch me building at my <a href="https://discord.gg/UkVG82A" target='_bl
 🐦 <a href="#">Twitter</a> </br>
 📸 <a href="#">Instagram</a> </br>
 💼 <a href="#">LinkedIn</a> </br>
+
+```javascript
+let msg = "Keep Working"
+(msg) => {
+  console.log(msg)
+}
+```

@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [TodoFire Project](https://github.com/TodoFire-OSS/todofire)
 
-- 🤝 I’m looking for help with [with find issues on my main project](https://github.com/JoaoGabriel-Lima/notemock_website)
+- 🤝 I’m looking for help with [find issues on my main project](https://github.com/JoaoGabriel-Lima/notemock_website)
 
 - 💬 Ask me about **React and UI Tips**
 
@@ -29,6 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/joaolima"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaolima" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&layout=compact" alt="joaogabriel-lima" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&layout=compact" alt="joaogabriel-lima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogabriel-lima&show_icons=true&locale=en" alt="joaogabriel-lima" /></p>

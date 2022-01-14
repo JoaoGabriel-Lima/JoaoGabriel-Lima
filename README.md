@@ -31,8 +31,8 @@
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogabriel-lima&show_icons=true&locale=en&theme=dark" alt="joaogabriel-lima" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&theme=dark" alt="joaogabriel-lima" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogabriel-lima&show_icons=true&locale=en&theme=github_dark" alt="joaogabriel-lima" /></p>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&theme=github_dark" alt="joaogabriel-lima" /></p>
 
 

@@ -33,6 +33,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogabriel-lima&show_icons=true&locale=en&theme=github_dark" alt="joaogabriel-lima" />
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&theme=github_dark" alt="joaogabriel-lima" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&theme=github_dark" alt="joaogabriel-lima" />
 
 

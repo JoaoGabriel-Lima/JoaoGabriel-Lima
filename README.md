@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **React and UI Tips**
 
-- 📫 How to reach me **jg.limamarinho202@gmail.com**
+- 📫 How to reach me: **jg.limamarinho202@gmail.com**
 
-- ⚡ Fun fact **I also like to code outdoors**
+- ⚡ Fun fact: **I also like to code outdoors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

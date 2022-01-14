@@ -52,7 +52,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogabriel-lima&show_icons=true&locale=en&theme=github_dark" alt="joaogabriel-lima" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="joaogabriel-lima" />
-<br/><br/>
+<br/>
 
 <h3>Support:</h3>
 <p><a href="https://ko-fi.com/joaolima"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaolima" /></a></p><br><br>

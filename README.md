@@ -30,6 +30,9 @@
 <p><a href="https://ko-fi.com/joaolima"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaolima" /></a></p><br><br>
 <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&layout=compact" alt="joaogabriel-lima" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogabriel-lima&show_icons=true&locale=en" alt="joaogabriel-lima" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&layout=compact" alt="joaogabriel-lima" /></p>
+
+

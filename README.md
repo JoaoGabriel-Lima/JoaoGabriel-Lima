@@ -48,12 +48,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="26" height="26"/>
 </div>
-
+<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaogabriel-lima&show_icons=true&locale=en&theme=github_dark" alt="joaogabriel-lima" />
-
+<br/>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/joaolima"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaolima" /></a></p><br><br>
-<br/>
 
 
 

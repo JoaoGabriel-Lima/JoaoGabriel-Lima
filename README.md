@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">A passionate UI/UX Designer and Fullstack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-lima&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabriel-lima" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-lima&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabriel-lima" /> </p>
 
 - 🔭 I’m currently working on [AI Powered ToDo Website](https://github.com/JoaoGabriel-Lima/notemock_website)
 

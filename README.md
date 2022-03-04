@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm João Gabriel</h1>
-<h3 align="center">A passionate UI/UX Designer and Fullstack developer from Brazil</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=35></img>, I'm João Gabriel!</h1>
+<h3 align="left">A passionate UI/UX Designer and Fullstack developer from Brazil</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-lima&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabriel-lima" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-lima&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="joaogabriel-lima" /> </p>
 
 - 🔭 I’m currently working on [AI Powered ToDo Website](https://github.com/JoaoGabriel-Lima/notemock_website)
 
@@ -18,47 +18,38 @@
 
 - ⚡ Fun fact: **I also like to code outdoors**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">☎️ Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juaozin__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juaozin__" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/t3Zag2EjFb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/t3Zag2EjFb" height="30" width="40" /></a>
+<a href="https://twitter.com/juaozin__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://discord.gg/https://discord.com/invite/t3Zag2EjFb" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://dev.to/joaolima" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" height="26"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" height="26"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26"/>
-	<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="26" height="26"/>
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
-	<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26" height="26"/>
-	<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26" height="26"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" height="26"/>
-	<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="26" height="26"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" height="26"/>
-	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26" height="26"/>
-	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/>
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26" height="26"/>
-	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="26" height="26"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26" height="26"/>
-	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26" height="26"/>
-	<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="26" height="26"/>
+<h3 align="left">🛠️ Tech Stack</h3>
+<div>
+<img src=" 
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="TS and typescript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="atom icon with the phrase react"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"/>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> 
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled components" />
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="es lint"/>
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+
 </div>
 <br/>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="joaogabriel-lima" />
-
-
-<h3>Support:</h3>
-
-<p><a href="https://ko-fi.com/joaolima"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaolima" /></a></p><br><br>
-
-
-
-
-
-
-
+<p >
+<img src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel-Lima&count_private=true&theme=github_dark&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="joaogabriel-lima" height="193" />
+</p>

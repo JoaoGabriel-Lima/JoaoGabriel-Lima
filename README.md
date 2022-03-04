@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=35></img>, I'm João Gabriel!</h1>
 <h3 align="left">A passionate UI/UX Designer and Fullstack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-lima&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="joaogabriel-lima" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-lima&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabriel-lima" /> </p>
 
 - 🔭 I’m currently working on [AI Powered ToDo Website](https://github.com/JoaoGabriel-Lima/notemock_website)
 
@@ -28,7 +28,7 @@
 <h3 align="left">🛠️ Tech Stack</h3>
 <div>
 <img src=" 
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="TS and typescript"/>
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="atom icon with the phrase react"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js"/>
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/>
@@ -51,5 +51,6 @@ https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&l
 
 <p >
 <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel-Lima&count_private=true&theme=github_dark&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabriel-lima&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="joaogabriel-lima" height="193" />
 </p>
+
+

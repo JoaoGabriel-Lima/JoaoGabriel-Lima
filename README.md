@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi, I'm João Gabriel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=35></img></h1>
+<h1 align="left">Hi, I'm João Gabriel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=31></img></h1>
 <h3 align="left">A passionate UI/UX Designer and Fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-lima&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabriel-lima" /> </p>

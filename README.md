@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Prisma and other ORMs**
 
-- 👯 I’m looking to collaborate on [TodoFire Project](https://github.com/TodoFire-OSS/todofire)
+- 👯 I’m looking to collaborate on [Luna Project](https://github.com/newlunaproj)
 
 - 🤝 I’m looking for help with [find issues on my main project](https://github.com/JoaoGabriel-Lima/notemock_website)
 

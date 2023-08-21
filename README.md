@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabriel-lima&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabriel-lima" /> </p>
 
-- 🔭 I’m currently working on [AI Powered ToDo Website](https://github.com/JoaoGabriel-Lima/notemock_website)
+- 🔭 I’m currently working on [Rastros Perdidos](https://github.com/JoaoGabriel-Lima/rastros-perdidos)
 
-- 🌱 I’m currently learning **Prisma and other ORMs**
+- 🌱 I’m currently learning **Ruby**
 
-- 👯 I’m looking to collaborate on [Luna Project](https://github.com/newlunaproj)
+- 👯 I’m looking to collaborate on any project
 
 - 🤝 I’m looking for help with [find issues on my main project](https://github.com/JoaoGabriel-Lima/notemock_website)
 

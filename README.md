@@ -30,12 +30,20 @@ I believe that my projects can help people who are starting to develop digital p
 ## Detailed information
 
 * **Name**: João Gabriel
-* * **Age**: 17
+* **Age**: 17
 * **Living in**: Rio de Janeiro, Brazil
 * **Stack**: Javascript - Typescript - Next.js - Flutter - Node.js - TailwindCSS - GraphQL
 * **University**: Graduating in computer science at UFF (Universidade Federal Fluminense)
 
+## Curiosities about me
+
+* I started coding by creating games using **Construct 2**, honing my programming logic with ideas I had when I was 9 years old;
+* Since I started to improve my knowledge in web development, I started teaching classes about what I was learning for those who were starting in the area;
+* Before I started web development I spent time creating plugins for minecraft servers using Java;
+* I really like to help people.
+
 ## My github stats
+
 <div>
 <img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel-Lima&count_private=true&theme=github_dark&include_all_commits=true" />
 <img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriel-Lima&layout=compact&theme=github_dark&include_all_commits=true" />

@@ -45,8 +45,8 @@ I believe that my projects can help people who are starting to develop digital p
 ## My github stats
 
 <div>
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel-Lima&theme=github_dark" />
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriel-Lima&layout=compact&theme=github_dark&include_all_commits=true" />
+<img height="165em" width: "100em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoGabriel-Lima&theme=dracula" />
+<img height="165em" width: "100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoGabriel-Lima&layout=compact&theme=dracula&include_all_commits=true" />
 </div>
 
 

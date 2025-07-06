@@ -30,7 +30,7 @@ I believe that my projects can help people who are starting to develop digital p
 ## Detailed information
 
 * **Name**: João Gabriel
-* **Age**: 18
+* **Age**: 19
 * **Living in**: Rio de Janeiro, Brazil
 * **Stack**: Javascript - Typescript - Next.js - Flutter - Node.js - TailwindCSS - GraphQL
 * **University**: Graduating in computer science at UFF (Universidade Federal Fluminense)

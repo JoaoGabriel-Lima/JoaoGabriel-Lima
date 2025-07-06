@@ -23,7 +23,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 ## Public information
 
-My name is João Gabriel, I am a 18yo freelancer and full-stack developer, currently based in Brazil, with a passion for applying my knowledge to solve real-life problems building unique products. 
+My name is João Gabriel, I am a 19yo freelancer and full-stack developer, currently based in Brazil, with a passion for applying my knowledge to solve real-life problems building unique products. 
 
 I believe that my projects can help people who are starting to develop digital products, so I maintain open-source software for the community.
 

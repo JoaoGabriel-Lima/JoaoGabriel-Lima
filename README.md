@@ -1,12 +1,6 @@
 
 <div>
-    <a target='_blank' href="https://twitter.com/juaozin___">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.instagram.com/marinho.jao/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.linkedin.com/in/jo%C3%A3o-lima-60673b233/">
+    <a target='_blank' href="https://www.linkedin.com/in/joaolimamarinho/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a target='_blank' href="https://dev.to/joaolima">
@@ -14,6 +8,9 @@
     </a>
     <a target='_blank' href="jg.limamarinho202@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.instagram.com/marinho.jao/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
 

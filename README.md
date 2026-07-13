@@ -9,18 +9,12 @@ I build reliable, user-centered software at the intersection of **full-stack eng
 [![Dev.to](https://img.shields.io/badge/dev.to-joaolima-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/joaolima)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@jgmarinho.com)
 
-## What I work on
-
-- Building full-stack products with React, Next.js, Node.js, Spring Boot, PostgreSQL, and Redis.
-- Designing data-intensive interfaces that make complex systems understandable and actionable.
-- Developing and operating cloud infrastructure with Docker, Kubernetes, Terraform, AWS, and GCP.
-- Researching distributed monitoring, optimization, Data Science, and Human-Computer Interaction.
 
 ## Technical toolkit
 
 **Languages:** TypeScript, JavaScript, Python, Java, Go, SQL  
 **Frontend:** React, Next.js, Electron, Tailwind CSS, Redux  
-**Backend & data:** Node.js, Spring Boot, FastAPI, PostgreSQL, Redis, REST, WebSockets  
+**Backend & data:** Node.js, Spring Boot, Go, FastAPI, PostgreSQL, Redis, REST, WebSockets  
 **Cloud & quality:** AWS, GCP, Docker, Kubernetes, Terraform, CI/CD, Playwright, Jest, Prometheus, Grafana
 
 ## Research and recognition

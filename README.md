@@ -30,9 +30,8 @@ I started programming at nine by building games with Construct 2, later explored
 Currently based in Niterói, Rio de Janeiro, and completing a Bachelor's degree in Computer Science at Universidade Federal Fluminense (expected December 2026).
 
 ## My github stats
-
 <div>
-<img height="165em" width: "100em" src="https://github-stats-extended.vercel.app/api?username=JoaoGabriel-Lima&theme=darcula" />
+<img height="165em" width: "100em" src="https://github-stats-extended.vercel.app/api?username=JoaoGabriel-Lima&include_all_commits=true&theme=darcula" />
 <img height="165em" width: "100em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGabriel-Lima&layout=compact&theme=darcula&include_all_commits=true" />
 </div>
 

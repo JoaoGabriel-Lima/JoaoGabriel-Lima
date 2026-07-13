@@ -20,7 +20,7 @@ I build reliable, user-centered software at the intersection of **full-stack eng
 ## Research and recognition
 
 - First author at the **26th Brazilian Congress of Automation (CBA)** for research on a scalable and interoperable Web SCADA architecture for shared electric bicycles.
-- **3rd place**, 2024 UFF Excellence Award, for the MoveUFF project.
+- 2024 UFF Excellence Award for Initiation in Tech. Development, for the MoveUFF project.
 - Contributed to teams that earned **three first-place hackathon awards** at ETH Rio and ETHSamba, totaling US$7.5K in prizes.
 
 ## A little more about me

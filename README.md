@@ -31,8 +31,8 @@ Currently based in Niterói, Rio de Janeiro, and completing a Bachelor's degree 
 
 ## My github stats
 <div>
-<img height="165em" width: "100em" src="https://github-stats-extended.vercel.app/api?username=JoaoGabriel-Lima&include_all_commits=true&theme=darcula" />
-<img height="165em" width: "100em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGabriel-Lima&layout=compact&theme=darcula&include_all_commits=true" />
+<img height="165em" width: "100em" src="https://github-stats-extended.vercel.app/api?username=JoaoGabriel-Lima&include_all_commits=true&theme=github_dark" />
+<img height="165em" width: "100em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoGabriel-Lima&layout=compact&theme=github_dark&include_all_commits=true" />
 </div>
 
 

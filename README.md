@@ -11,13 +11,13 @@ Software engineer and Computer Science student at Universidade Federal Fluminens
 
 ## Research
 
-- **MoveUFF**: a web SCADA platform for electric bikes based on IEC 61850/MMS, evaluated on a Kubernetes testbed with up to 1,000 simulated bikes
-- First-author [paper at the **XXVI Brazilian Congress of Automation (CBA 2026)**](https://ojs.sba.org.br/index.php/cba/article/view/6148)
-- Awards: **UFF Excellence Award** (2024, MoveUFF) and three Web3 hackathons (2024, ETHRio, ETHSamba)
+- **MoveUFF**: [a web SCADA platform for electric bikes based on IEC 61850/MMS](https://jgmarinho.com/projects/moveuff), evaluated on a Kubernetes testbed with up to 1,000 simulated bikes
+- First-author paper at the [**XXVI Brazilian Congress of Automation (CBA 2026)**](https://ojs.sba.org.br/index.php/cba/article/view/6148)
+- Awards: [**UFF Excellence Award** (2024, MoveUFF)](https://jgmarinho.com/projects/moveuff#:~:text=Presentations%20and%20awards) and [three Web3 hackathons (2024, ETHRio, ETHSamba)](https://jgmarinho.com/#:~:text=1st%20Place%20Lumx%20Hackathon)
 
 ## Now
 
-- Finishing my B.Sc. at UFF. My thesis is a user-centered redesign of the MoveUFF supervisory system
+- Finishing my B.Sc. at UFF. My thesis is a [user-centered redesign of the MoveUFF supervisory system](https://jgmarinho.com/research#:~:text=From%20Monitoring%20to%20Decision%2DMaking%3A%20User%2DCentered%20Redesign%20of%20the%20MoveUFF%20Supervisory%20System)
 - Studying how machine learning can help distributed systems scale and recover on their own
 - Systems architect at Lycium
 

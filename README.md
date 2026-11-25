@@ -1,6 +1,6 @@
 # João Gabriel Lima Marinho
 
-Software engineer and Computer Science student at Universidade Federal Fluminense (UFF), working on distributed systems for energy and mobility.
+Software engineer and Computer Science student at Universidade Federal Fluminense (UFF). I work on distributed and cloud systems, human-computer interaction, data science and combinatorial optimization for energy and mobility.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jgmarinho.com-d1823e?style=flat-square)](https://jgmarinho.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--6907--2496-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-6907-2496)

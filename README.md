@@ -4,7 +4,7 @@ Software engineer and Computer Science student at Universidade Federal Fluminens
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jgmarinho.com-d1823e?style=flat-square)](https://jgmarinho.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--6907--2496-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-6907-2496)
-[![Lattes](https://img.shields.io/badge/Lattes-CNPq-1F5D99?style=flat-square)](http://lattes.cnpq.br/5706411647184268)
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-1F5D99?style=flat-square)](https://busca-cv-lattes.cnpq.br/curriculo/5706411647184268)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-João_Marinho-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=KwxZZZ4AAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaolimamarinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolimamarinho/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@jgmarinho.com)
